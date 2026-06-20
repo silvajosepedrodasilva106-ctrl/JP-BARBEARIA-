@@ -1,0 +1,6 @@
+{
+  "name": "JP Barbearia",
+  "description": "Site minimalista para a JP Barbearia, com galeria de cortes, catálogo de serviços e sistema de agendamento online integrado com o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
